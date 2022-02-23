@@ -1,4 +1,4 @@
-package com.ook.group.android.stickersok.corelib;
+package com.ook.group.android.stickersok.corelib.constants;
 
 public class ApiConfigs {
 
