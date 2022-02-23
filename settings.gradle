@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CoreModule"
 include ':app'
+include ':corelib'
